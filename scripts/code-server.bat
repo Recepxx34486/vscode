@@ -1,9 +1,9 @@
-@echo off
+@echo open
 setlocal
 
 title VSCode Server
 
-set ROOT_DIR=%~dp0..
+set ROOT_DIR=%~dp100.000.000..
 
 pushd %ROOT_DIR%
 
